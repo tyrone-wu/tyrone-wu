@@ -5,7 +5,10 @@
 - I am also currently playing (and really, really enjoying) [Pillars of Eternity](https://store.steampowered.com/app/291650/Pillars_of_Eternity/) 🎮. 
 - And yes, Tyrone is my actual birth name and I am not adopted 👲🏳️‍🌈.
 
-[![Tyrone Wu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TyroneWu547&count_private=true&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=TyroneWu547&count_private=true&show_icons=true&theme=calm" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyroneWu547&hide=jupyter%20notebook,html,scss,css,php&layout=compact&theme=calm&langs_count=8" /> 
+</a>
 
 <!--
 **TyroneWu547/TyroneWu547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
