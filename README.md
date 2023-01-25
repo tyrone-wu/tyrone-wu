@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="./asdf.jpg" width="350">
+
+Yes, Tyrone is not a nickname. It's my legal birth name. 🫠
 
 <!--
 **TyroneWu547/TyroneWu547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
