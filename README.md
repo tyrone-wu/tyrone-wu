@@ -6,8 +6,8 @@
 - And yes, Tyrone is my actual birth name and I am not adopted 👲🏳️‍🌈.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=TyroneWu547&count_private=true&show_icons=true&hide_rank=true&theme=calm" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyroneWu547&count_private=true&hide=jupyter%20notebook,html,scss,css,php&layout=compact&theme=calm&langs_count=8" /> 
+  <img src="https://github-readme-stats-nu-beryl.vercel.app/api?username=TyroneWu547&count_private=true&show_icons=true&hide_rank=true&theme=calm" /> 
+  <img src="https://github-readme-stats-nu-beryl.vercel.app/api/top-langs/?username=TyroneWu547&count_private=true&hide=jupyter%20notebook,html,scss,css,php,gherkin,assembly,batchfile,r,tex&layout=compact&theme=calm&langs_count=10" /> 
 </a>
 
 <!--
