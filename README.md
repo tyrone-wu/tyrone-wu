@@ -6,7 +6,6 @@
 
 - I got my B.S. in Computer Science 💻 with a minor in Statistics 📊 at NCSU 🐺. And as of now, I'm currently working towards my final semester in the Accelerated Bachelor's/Master's (ABM) Program 💨 to complete my Master of Computer Science. 
 - When I'm not doing coursework, I'm either self-studying for the Certified Kubernetes Application Developer (CKAD) Exam 🔵, or am watching [hilariously terrible movies](https://www.reddit.com/r/badMovies/) 💀. 
-- I am also currently playing (and really, really enjoying) [Pillars of Eternity](https://store.steampowered.com/app/291650/Pillars_of_Eternity/) 🎮. 
 - And yes, Tyrone is my actual birth name and I am not adopted.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
