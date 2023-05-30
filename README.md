@@ -4,8 +4,8 @@
 
 <img src="./octocat_.png" width="350">
 
-- I got my B.S. in Computer Science with a minor in Statistics at NCSU 🐺. And as of now, I'm currently working towards my final semester in the Accelerated Bachelor's/Master's (ABM) Program to complete my Master of Computer Science. 
-- When I'm not doing coursework, I'm either self-studying for the Certified Kubernetes Application Developer (CKAD) Exam, or am watching [hilariously terrible movies](https://www.reddit.com/r/badMovies/). 
+- I got my B.S. in Computer Science with a minor in Statistics at NCSU 🐺, and have just recently obtained mu Masters of Computer Science through the Accelerated Bachelor's/Master's (ABM) Program. 
+- I'm a full-stack developer with a special interest in the "Ops" side of development, and I love building useful tools and being up-to-date with new technologies in the industry!  
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-tyronewu547.vercel.app/api?username=tyrone-wu&count_private=true&show_icons=true&hide_rank=true&theme=calm" /> 
